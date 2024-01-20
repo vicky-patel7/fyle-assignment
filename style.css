@@ -1,0 +1,7 @@
+.nav-bar{
+    position: relative;
+}
+.nav-search{
+    position: absolute;
+    right: 20px;
+}
